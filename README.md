@@ -2,7 +2,7 @@
 
 > A dark theme for [Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
-![Screenshot](https://imgur.com/22yyeHi)
+![Screenshot](https://i.imgur.com/22yyeHi.png)
 
 ## Install
 
