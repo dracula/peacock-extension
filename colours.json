@@ -1,0 +1,49 @@
+    "peacock.favoriteColors": [
+        {
+            "name": "Dark",
+            "value": "#44475a"
+        },
+        {
+            "name": "Light",
+            "value": "#f8f8f2"
+        },
+        {
+            "name": "Purple",
+            "value": "#6272a4"
+        },
+        {
+            "name": "Cyan",
+            "value": "#8be9fd"
+        },
+        {
+            "name": "Green",
+            "value": "#50fa7b"
+        },
+        {
+            "name": "Orange",
+            "value": "#ffb86c"
+        },
+        {
+            "name": "Pink",
+            "value": "#ff79c6"
+        },
+        {
+            "name": "Purple",
+            "value": "#bd93f9"
+        },
+        {
+            "name": "Red",
+            "value": "#ff5555"
+        },
+        {
+            "name": "Yellow",
+            "value": "#f1fa8c"
+        },
+        {
+            "name": "Purple",
+            "value": "#6272a4"
+        }
+    ],
+    "peacock.affectTabActiveBorder": true,
+    "peacock.surpriseMeFromFavoritesOnly": true,
+    "peacock.surpriseMeOnStartup": true
