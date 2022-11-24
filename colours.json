@@ -44,6 +44,4 @@
             "value": "#6272a4"
         }
     ],
-    "peacock.affectTabActiveBorder": true,
-    "peacock.surpriseMeFromFavoritesOnly": true,
-    "peacock.surpriseMeOnStartup": true
+    "peacock.affectTabActiveBorder": true

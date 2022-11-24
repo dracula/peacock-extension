@@ -2,19 +2,10 @@
 
 > A dark theme for [Peacock extension](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
-![Screenshot](https://i.imgur.com/22yyeHi.png)
+![Screenshot](./screenshot.png)
 
 ## Install
-
-Install by going to your extension manager in vs code and searching for "Peacock" or by using the following command.
-
-```bash
-code --install-extension johnpapa.vscode-peacock
-```
-
-Go to your `settings.json` file with <kbd>cmd</kbd>/<kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>P</kbd> and _Open Settings (JSON)_.
-
-Copy and paste the contents from `colours.json` in this repo into your vscode `settings.json` file and save.
+All instructions can be found in [`INSTALL.md`](./INSTALL.md)
 
 ## Team
 
@@ -23,6 +14,12 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 [![Tom Nicklin](https://avatars2.githubusercontent.com/u/4008082?v=3&s=70)](https://github.com/shmink) |
 --- | 
 [Tom Nicklin](https://github.com/shmink) | 
+
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## License
 
