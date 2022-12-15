@@ -5,15 +5,16 @@
 ![Screenshot](./screenshot.png)
 
 ## Install
-All instructions can be found in [`INSTALL.md`](./INSTALL.md)
+
+All instructions can be found at [draculatheme.com/peacock-extension](https://draculatheme.com/peacock-extension).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Tom Nicklin](https://avatars2.githubusercontent.com/u/4008082?v=3&s=70)](https://github.com/shmink) |
---- | 
-[Tom Nicklin](https://github.com/shmink) | 
+| [![Tom Nicklin](https://avatars2.githubusercontent.com/u/4008082?v=3&s=70)](https://github.com/shmink) |
+| ------------------------------------------------------------------------------------------------------ |
+| [Tom Nicklin](https://github.com/shmink)                                                               |
 
 ## Community
 
